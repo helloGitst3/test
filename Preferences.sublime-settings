@@ -4,6 +4,7 @@
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/User/SublimeLinter/1337 (SL).tmTheme",
 	"font_size": 17,
+	"font_face":"Source Code Pro",
 	"highlight_line": true,
 	"ignored_packages":
 	[
